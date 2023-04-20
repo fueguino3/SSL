@@ -1,1 +1,1 @@
-Compilador clang (LLVM-16.0.0)
+Compilador gcc (MinGW.org GCC-6.3.0-1)
